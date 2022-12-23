@@ -5,9 +5,9 @@
 
 			"NetworkAds": "admob",
 
-			"banner": "/6499/example/banner",
-			"interstitial": "/6499/example/interstitial",
-			"ads_native": "/6499/example/native"
+			"banner": "ca-app-pub-7114471897201453/6966901476",
+			"interstitial": "ca-app-pub-7114471897201453/6699308163",
+			"ads_native": "ca-app-pub-7114471897201453/8088411452"
 
 
 		}
